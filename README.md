@@ -8,3 +8,4 @@ string[] data = { "сестра", "подстожье", "вицмундир", "�
 
 ## Результат
 
+![image](https://github.com/artemgorbatuk/Task-Pravo-Tech-Set-01-Anagram/assets/7283674/c31dd258-920e-43da-9a7e-ff071f0e32d2)
